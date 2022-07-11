@@ -1,0 +1,34 @@
+<div class="pt-5 lines">
+            <div class="content">
+                
+                <div class="title m-b-md animate__animated animate__slideInUp h5_webinn py-5">
+                    Login to Webinn
+                </div>
+
+                <div class="title m-b-md animate__animated animate__slideInUp h4_webinn">
+                    Login to Webinn
+                </div>
+
+                <div class="links animate__animated animate__slideInUp ">
+                    <div class="container-fluid py-3 links">
+                        <a href="{{ route('reg_page')}}">Get started</a>
+                        <a href="{{ route('welcome_page')}}">Login</a>
+                        <a href="{{ route('dash_page')}}">Dashboard</a>
+                    </div>
+
+                    <div class="links md-5">
+                        <div class="group-item py-2 links" align="left">
+                            <a class="text-left">Email address</a>   
+                        </div>
+                        <div class="group-item py-2">
+                            <input class="form-control" name="email" placeholder="E-mail">
+                        </div>
+                        <div class="group-item-py-2">
+                            <button class="btn-btn-primary" name="btnx">Login</button>
+                        </div>
+                        <a name="btnx" href="{{ route('reg_page') }}">Get started</a>
+                        <a name="btnx" href="{{ route('reg_page') }}">Faq</a>
+                    </div>
+                </div>
+            </div>
+        </div>

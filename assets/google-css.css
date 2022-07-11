@@ -1,0 +1,228 @@
+html::-webkit-scrollbar{
+    width: 10px;
+}
+html::-webkit-scrollbar-track{
+    background-color: #EDEEF0;
+    border-radius: 5px;
+}
+html::-webkit-scrollbar-thumb{
+    background-color: #7D838C;
+    border-radius: 5px;
+}
+.google-clone{
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+.google-input{
+    height: 40px;
+    width: 100%;
+    border-color: #ffffff;
+    justify-content: center;
+}
+.google-input:focus{
+    box-shadow: none;
+    border-color: #DADCE0;
+    border-color: #ffffff;
+}
+.input-group-text{
+    border-color: #DADCE0;
+}
+.search-one{
+    background-color: transparent;
+}
+.search-one:hover{
+    background-color: transparent;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.rounded-left-right{
+    border-top-left-radius: 50px!important;
+    border-bottom-left-radius: 50px!important;
+    border-top-right-radius: 50px!important;
+    border-bottom-right-radius: 50px!important;
+    width: 70%; text-align: center;
+}
+.inside-center{
+    text-align: center;
+    justify-content: center;
+}
+.fa-magnifying-glass{
+    font-size: 20px;
+}
+.fa-microphone{
+    font-size: 23px;
+}
+.search{
+    color: #9AA0A6;
+}
+.button-google{
+    text-align: center!important;
+    justify-content: center!important;
+}
+.btn-default{
+    background-color: #F8F9FA;
+}
+.btn-default:hover{
+    border: 1px solid #DADCE0;
+}
+.btn-default:focus{
+    box-shadow: none;
+}
+.label{
+    text-decoration: none!important;
+}
+.labels{
+    text-decoration: none!important;
+    color: black;
+}
+.labels:hover{
+    text-decoration: none!important;
+    color: black;
+    text-decoration-line: underline!important;
+}
+.google-footer{
+    background-color: #F0F0F0;
+}
+.pull-right{
+    text-align: right;
+    justify-content: right;
+}
+.google-header{
+    text-align: right;
+    justify-content: right;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+}
+.icon-size{
+    font-size: x-large;
+    background-color: transparent;
+    height: 20px!important;
+    width: 20px!important;
+}
+.bar-menu{
+    padding: 15px;
+}
+.bar-menu:hover{
+    font-size: x-large;
+    background-color: #E0E0E0!important;
+}
+.author{
+    width: 40px;
+    height: 40px;
+    border: 3px solid #4285F4
+}
+/* ***************************************************************************** */
+
+.rounded-left-rightx{
+    border-top-left-radius: 50px!important;
+    border-bottom-left-radius: 50px!important;
+    border-top-right-radius: 50px!important;
+    border-bottom-right-radius: 50px!important;
+    text-align: left;
+}
+.esarch-icon-size{
+    font-size: 12px!important;
+}
+.pullright{
+    text-align: right!important;
+    justify-content: right!important;
+}
+.bgp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.search-onex{
+    background-color: transparent;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.search-onex:hover{
+    background-color: transparent;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+.sidos{
+    font-size: 25px!important;
+    color: #767676;
+}
+.obama-tilte{
+    font-style: normal!important;
+}
+.line-obama{
+    width: 100%!important;
+}
+.dob{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.dob:hover{
+    color: black;
+    text-decoration: underline;
+}
+.aboy-obama{
+    color: #190CA4!important;
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.aboy-obama:hover{
+    color: #190CA4!important;
+    text-decoration: underline;
+}
+.voir{
+    color: #70757A;
+    text-decoration: none;
+    text-align: right;
+    justify-content: right;
+}
+.voir:hover{
+    color: #70757A;
+    text-decoration: underline;
+}
+.livres{
+    font-style: normal;
+    font-size: 20px;
+    color: #202124;
+    text-decoration: none;
+}
+.livres:hover{
+    color: #202124;
+    text-decoration: underline;
+}
+.ops{
+    border-radius: 10px!important;
+}
+.head-back{
+    background-color: #ffffff!important;
+}
+.bgr-down{
+    border: 1px solid #DADCE0;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 15px!important;
+}
+.signla-size{
+    font-size: 15px;
+}
+.fa-circle-check{
+    color: #4285F4;
+}
+.hpp-cr{
+    color: #190CA4;
+    font-size: 15px;
+}
+.obm{
+    font-size: 30px;
+}
+.obmx{
+    font-size: 30px;
+}
+.wikihere{
+    font-weight: bold;
+}
+.inline-img{
+    display: inline-block!important;
+    height: 150px!important; width: 250px!important;
+}
